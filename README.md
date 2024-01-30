@@ -14,7 +14,7 @@ NewsSpectrum is a cutting-edge text classification system designed to categorize
 Get started with NewsSpectrum by cloning the repository and installing dependencies:
 
 ```bash
-git clone [Your Repository URL]
+git clone https://github.com/kodychik/NewsSpectrumScrape/tree/master
 cd NewsSpectrum
 
 Install requirements for this project respectively.
