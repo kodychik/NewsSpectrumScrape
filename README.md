@@ -1,9 +1,4 @@
 
----
-
-### NewsSpectrum README Template
-
-```markdown
 # NewsSpectrum
 
 ## Overview
@@ -21,4 +16,5 @@ Get started with NewsSpectrum by cloning the repository and installing dependenc
 ```bash
 git clone [Your Repository URL]
 cd NewsSpectrum
-pip install -r requirements.txt
+
+Install requirements for this project respectively.
